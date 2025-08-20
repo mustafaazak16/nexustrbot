@@ -1,0 +1,5 @@
+# Discord Bot Token'ınızı buraya ekleyin
+DISCORD_TOKEN=your_bot_token_here
+
+# Bot Prefix'i (isteğe bağlı)
+BOT_PREFIX=!
